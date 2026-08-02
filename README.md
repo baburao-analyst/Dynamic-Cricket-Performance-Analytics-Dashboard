@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/MIT_License-blue?style=for-the-badge&logo=open-source-initiative&logoColor=white"/> 
 </p>
 
+</div>
+
 ![Dashboard Screenshot](Dashboard%20Screenshot.png)
 
 > An interactive Power BI dashboard that provides comprehensive batting and bowling performance analysis for cricket players using dynamic DAX measures, slicers, and advanced data visualization.

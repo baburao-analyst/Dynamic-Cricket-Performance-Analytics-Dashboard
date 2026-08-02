@@ -1,4 +1,8 @@
+<div align="center">
+  
 # 🏏 Dynamic Cricket Performance Analytics Dashboard
+
+### *An Interactive Business Intelligence Solution for Cricket Performance Analytics using Power BI*
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> 
